@@ -1,0 +1,17 @@
+{
+  "name": "gitsearch",
+  "version": "1.0.0",
+  "description": "",
+  "author": "masato yoshioka",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bin": {
+    "gitsearch": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.6.0",
+    "request": "^2.53.0"
+  }
+}
